@@ -31,68 +31,58 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 <br>
 
 <h2 align="center">⚡ Tecnologías en mi Grid</h2>
-<h2 align="center">⚡ Tecnologías en mi Grid</h2>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<div style="display:flex; flex-direction:column; align-items:center; gap:30px;">
 
-  <!-- FILA SUPERIOR (1 icono) -->
-  <tr>
-    <td colspan="3" align="center" style="padding: 15px;">
-      <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="85"/>
-      <br>
-      <span style="color:#00EAFF; font-size:13px; font-weight:bold;">TypeScript</span>
-    </td>
-  </tr>
+  <!-- FILA 1 -->
+  <div style="display:flex; gap:40px;">
+    <div style="background:#0a0a0a; padding:15px; border-radius:15px; text-align:center; width:100px;">
+      <img src="typescript-tron-border-neon.svg" width="80"/>
+      <div style="color:#00EAFF; margin-top:5px;">TypeScript</div>
+    </div>
+  </div>
 
-  <!-- FILA INTERMEDIA (2 iconos) -->
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <img src="react-tron.svg" alt="React" width="80"/>
-      <br>
-      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">React</span>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <img src="nodejs-tron.svg" alt="Node.js" width="80"/>
-      <br>
-      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Node.js</span>
-    </td>
-  </tr>
+  <!-- FILA 2 -->
+  <div style="display:flex; gap:40px;">
+    <div style="background:#0a0a0a; padding:15px; border-radius:15px; text-align:center; width:100px;">
+      <img src="react-tron.svg" width="80"/>
+      <div style="color:#00EAFF; margin-top:5px;">React</div>
+    </div>
+    <div style="background:#0a0a0a; padding:15px; border-radius:15px; text-align:center; width:100px;">
+      <img src="nodejs-tron.svg" width="80"/>
+      <div style="color:#00EAFF; margin-top:5px;">Node.js</div>
+    </div>
+  </div>
 
-  <!-- FILA CENTRAL (3 iconos) -->
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <img src="nextjs-tron.svg" alt="Next.js" width="80"/>
-      <br>
-      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Next.js</span>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <img src="nestjs-tron.svg" alt="NestJS" width="80"/>
-      <br>
-      <span style="color:#EA2845; font-size:13px; font-weight:bold;">NestJS</span>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <img src="express-tron.svg" alt="Express" width="80"/>
-      <br>
-      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Express</span>
-    </td>
-  </tr>
+  <!-- FILA 3 -->
+  <div style="display:flex; gap:40px;">
+    <div style="background:#0a0a0a; padding:15px; border-radius:15px; text-align:center; width:100px;">
+      <img src="nextjs-tron.svg" width="80"/>
+      <div style="color:#00EAFF; margin-top:5px;">Next.js</div>
+    </div>
+    <div style="background:#0a0a0a; padding:15px; border-radius:15px; text-align:center; width:100px;">
+      <img src="nestjs-tron.svg" width="80"/>
+      <div style="color:#EA2845; margin-top:5px;">NestJS</div>
+    </div>
+    <div style="background:#0a0a0a; padding:15px; border-radius:15px; text-align:center; width:100px;">
+      <img src="express-tron.svg" width="80"/>
+      <div style="color:#FFFFFF; margin-top:5px;">Express</div>
+    </div>
+  </div>
 
-  <!-- FILA INFERIOR (2 iconos) -->
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <img src="docker-tron-epic.svg" alt="Docker" width="80"/>
-      <br>
-      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Docker</span>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <img src="git-tron-epic.svg" alt="Git" width="80"/>
-      <br>
-      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Git</span>
-    </td>
-    <td></td>
-  </tr>
+  <!-- FILA 4 -->
+  <div style="display:flex; gap:40px;">
+    <div style="background:#0a0a0a; padding:15px; border-radius:15px; text-align:center; width:100px;">
+      <img src="docker-tron-epic.svg" width="80"/>
+      <div style="color:#00EAFF; margin-top:5px;">Docker</div>
+    </div>
+    <div style="background:#0a0a0a; padding:15px; border-radius:15px; text-align:center; width:100px;">
+      <img src="git-tron-epic.svg" width="80"/>
+      <div style="color:#FFFFFF; margin-top:5px;">Git</div>
+    </div>
+  </div>
 
-</table>
+</div>
 
 
 
