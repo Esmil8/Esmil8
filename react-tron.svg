@@ -1,0 +1,23 @@
+<svg width="120" height="120" viewBox="0 0 256 256" fill="none" 
+     xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .glow { 
+      stroke: #00eaff; 
+      filter: drop-shadow(0 0 8px #00eaff) drop-shadow(0 0 12px #00eaff);
+      stroke-width: 10;
+    }
+    .pulse {
+      animation: p 3s infinite ease-in-out;
+    }
+    @keyframes p {
+      0% { opacity: 0.6; }
+      50% { opacity: 1; }
+      100% { opacity: 0.6; }
+    }
+  </style>
+
+  <circle cx="128" cy="128" r="20" class="glow pulse"/>
+  <ellipse cx="128" cy="128" rx="90" ry="35" transform="rotate(0 128 128)" class="glow pulse"/>
+  <ellipse cx="128" cy="128" rx="90" ry="35" transform="rotate(60 128 128)" class="glow pulse"/>
+  <ellipse cx="128" cy="128" rx="90" ry="35" transform="rotate(120 128 128)" class="glow pulse"/>
+</svg>
