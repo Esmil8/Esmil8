@@ -32,50 +32,64 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 
 # ⚡ Tecnologías en mi Grid
 
-### 🔧 Herramientas y Tecnologías TRON
+### 🔧 Herramientas y Tecnologías Ultra TRON
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 40px; max-width: 800px; margin: auto;">
+<div align="center" style="display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); 
+    gap: 50px; max-width: 900px; margin: auto; 
+    padding: 20px; background: #0b0b0b; border-radius: 15px;
+    box-shadow: 0 0 40px #00f0ff inset, 0 0 20px #fffc00 inset;
+    animation: glowGrid 3s infinite alternate;">
+
+  <style>
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
+
+    @keyframes glowGrid {
+      0% { box-shadow: 0 0 20px #00f0ff inset, 0 0 10px #fffc00 inset; }
+      50% { box-shadow: 0 0 50px #00f0ff inset, 0 0 30px #fffc00 inset; }
+      100% { box-shadow: 0 0 20px #00f0ff inset, 0 0 10px #fffc00 inset; }
+    }
+
+    .tron-icon {
+      transition: transform 0.4s, filter 0.4s;
+      animation: float 3s ease-in-out infinite;
+      filter: drop-shadow(0 0 6px #00f0ff) drop-shadow(0 0 6px #fffc00);
+      cursor: pointer;
+    }
+
+    .tron-icon:hover {
+      transform: scale(1.4);
+      filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 15px #fffc00);
+    }
+  </style>
 
   <!-- Node.js -->
-  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';">
-    <img src="nodejs-tron.svg" alt="Node.js" width="100"/>
-  </div>
+  <img src="nodejs-tron.svg" alt="Node.js" class="tron-icon" width="120"/>
 
   <!-- Express -->
-  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';">
-    <img src="express-tron.svg" alt="Express" width="100"/>
-  </div>
+  <img src="express-tron.svg" alt="Express" class="tron-icon" width="120"/>
 
   <!-- NestJS -->
-  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';">
-    <img src="nestjs-tron.svg" alt="NestJS" width="100"/>
-  </div>
+  <img src="nestjs-tron.svg" alt="NestJS" class="tron-icon" width="120"/>
 
   <!-- Next.js -->
-  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';">
-    <img src="nextjs-tron.svg" alt="Next.js" width="100"/>
-  </div>
+  <img src="nextjs-tron.svg" alt="Next.js" class="tron-icon" width="120"/>
 
   <!-- React -->
-  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';">
-    <img src="react-tron.svg" alt="React" width="100"/>
-  </div>
+  <img src="react-tron.svg" alt="React" class="tron-icon" width="120"/>
 
   <!-- TypeScript -->
-  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';">
-    <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="100"/>
-  </div>
+  <img src="typescript-tron-border-neon.svg" alt="TypeScript" class="tron-icon" width="120"/>
 
   <!-- Docker -->
-  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';">
-    <img src="docker-tron-epic.svg" alt="Docker" width="100"/>
-  </div>
+  <img src="docker-tron-epic.svg" alt="Docker" class="tron-icon" width="120"/>
 
   <!-- Git -->
-  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';">
-    <img src="git-tron-epic.svg" alt="Git" width="100"/>
-  </div>
-
+  <img src="git-tron-epic.svg" alt="Git" class="tron-icon" width="120"/>
 </div>
 
 
