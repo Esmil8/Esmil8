@@ -1,0 +1,22 @@
+<svg width="600" height="26" viewBox="0 0 600 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tronLine">
+      <stop offset="0%" stop-color="#00C8FF"/>
+      <stop offset="50%" stop-color="#00A2FF"/>
+      <stop offset="100%" stop-color="#008CFF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Glow exterior -->
+  <rect x="0" y="6" width="600" height="14" rx="7" fill="#009DFF" opacity="0.15"/>
+
+  <!-- Línea principal -->
+  <rect x="0" y="10" width="600" height="6" rx="3" fill="url(#tronLine)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Barrido futurista -->
+  <rect x="-120" y="10" width="120" height="6" rx="3" fill="#FFFFFF" opacity="0.55">
+    <animate attributeName="x" values="-120;600" dur="2.3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
