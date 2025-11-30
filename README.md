@@ -32,15 +32,52 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 
 # ⚡ Tecnologías en mi Grid
 
-<div align="center">
+### 🔧 Herramientas y Tecnologías TRON
 
-| Backend | Frontend | Herramientas |
-|--------|----------|--------------|
-| Node.js • TypeScript | React • Next.js | Git / GitHub |
-| Express | TailwindCSS | Docker |
-| SQL Server | HTML / CSS | Postman |
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 20px; max-width: 600px; margin: auto;">
+
+  <!-- Node.js -->
+  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="nodejs-tron.svg" alt="Node.js" width="60"/>
+  </div>
+
+  <!-- Express -->
+  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="express-tron.svg" alt="Express" width="60"/>
+  </div>
+
+  <!-- NestJS -->
+  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="nestjs-tron.svg" alt="NestJS" width="60"/>
+  </div>
+
+  <!-- Next.js -->
+  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="nextjs-tron.svg" alt="Next.js" width="60"/>
+  </div>
+
+  <!-- React -->
+  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="react-tron.svg" alt="React" width="60"/>
+  </div>
+
+  <!-- TypeScript -->
+  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="60"/>
+  </div>
+
+  <!-- Docker -->
+  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="docker-tron-epic.svg" alt="Docker" width="60"/>
+  </div>
+
+  <!-- Git -->
+  <div style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="git-tron-epic.svg" alt="Git" width="60"/>
+  </div>
 
 </div>
+
 
 <br>
 
