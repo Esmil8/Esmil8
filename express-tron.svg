@@ -1,0 +1,28 @@
+<svg width="420" height="180" viewBox="0 0 420 180" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .tron {
+      fill: #cfe9ff;
+      font-family: 'Segoe UI', sans-serif;
+      font-weight: 300;
+      letter-spacing: 4px;
+      filter: drop-shadow(0 0 4px #cfe9ff) drop-shadow(0 0 12px #cfe9ff);
+    }
+
+    .pulse {
+      animation: pulse 2.4s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0% { filter: drop-shadow(0 0 3px #cfe9ff); }
+      50% { filter: drop-shadow(0 0 16px #cfe9ff); }
+      100% { filter: drop-shadow(0 0 3px #cfe9ff); }
+    }
+  </style>
+
+  <!-- Texto Express estilo oficial pero TRON -->
+  <text x="50%" y="55%" text-anchor="middle" font-size="72" class="tron pulse">
+    express
+  </text>
+
+</svg>
