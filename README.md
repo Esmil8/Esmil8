@@ -30,63 +30,60 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 
 <br>
 
-<h2 align="center">⚡ Tecnologías en mi Grid</h2>
+<h2 align="center">⚡ Tecnologías en mi Stack</h2>
 
-<table align="center" cellpadding="10" cellspacing="0">
+<div align="center" style="
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+  padding: 20px;
+  background-color: #0a0a0a;
+  border-radius: 20px;
+">
 
-  <!-- Fila 1 -->
-  <tr>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="typescript-tron-border-neon.svg" width="80"/>
-      <br><strong style="color:#00EAFF;">TypeScript</strong>
-    </td>
-    <td>&nbsp;</td>
-  </tr>
+  <!-- Capa superior -->
+  <div style="display: flex; justify-content: center; gap: 40px;">
+    <div style="display:flex; flex-direction: column; align-items:center;">
+      <img src="typescript-tron-border-neon.svg" width="85" alt="TypeScript"/>
+      <span style="color:#00EAFF; margin-top:5px; font-weight:bold;">TypeScript</span>
+    </div>
+  </div>
 
-  <!-- Fila 2 -->
-  <tr>
-    <td align="center">
-      <img src="react-tron.svg" width="80"/>
-      <br><strong style="color:#FFFFFF;">React</strong>
-    </td>
-    <td align="center">
-      <img src="nodejs-tron.svg" width="80"/>
-      <br><strong style="color:#FFFFFF;">Node.js</strong>
-    </td>
-    <td align="center">
-      <img src="nestjs-tron.svg" width="80"/>
-      <br><strong style="color:#EA2845;">NestJS</strong>
-    </td>
-  </tr>
+  <!-- Capa media -->
+  <div style="display: flex; justify-content: center; gap: 40px;">
+    <div style="display:flex; flex-direction: column; align-items:center;">
+      <img src="nodejs-tron.svg" width="85" alt="Node.js"/>
+      <span style="color:#FFFFFF; margin-top:5px; font-weight:bold;">Node.js</span>
+    </div>
+    <div style="display:flex; flex-direction: column; align-items:center;">
+      <img src="nestjs-tron.svg" width="85" alt="NestJS"/>
+      <span style="color:#EA2845; margin-top:5px; font-weight:bold;">NestJS</span>
+    </div>
+  </div>
 
-  <!-- Fila 3 -->
-  <tr>
-    <td>&nbsp;</td>
-    <td align="center">
-      <img src="nextjs-tron.svg" width="80"/>
-      <br><strong style="color:#FFFFFF;">Next.js</strong>
-    </td>
-    <td>&nbsp;</td>
-  </tr>
+  <!-- Capa inferior -->
+  <div style="display: flex; justify-content: center; gap: 40px;">
+    <div style="display:flex; flex-direction: column; align-items:center;">
+      <img src="react-tron.svg" width="80" alt="React"/>
+      <span style="color:#00EAFF; margin-top:5px; font-weight:bold;">React</span>
+    </div>
+    <div style="display:flex; flex-direction: column; align-items:center;">
+      <img src="nextjs-tron.svg" width="80" alt="Next.js"/>
+      <span style="color:#FFFFFF; margin-top:5px; font-weight:bold;">Next.js</span>
+    </div>
+    <div style="display:flex; flex-direction: column; align-items:center;">
+      <img src="docker-tron-epic.svg" width="80" alt="Docker"/>
+      <span style="color:#FFFFFF; margin-top:5px; font-weight:bold;">Docker</span>
+    </div>
+    <div style="display:flex; flex-direction: column; align-items:center;">
+      <img src="git-tron-epic.svg" width="80" alt="Git"/>
+      <span style="color:#FFFFFF; margin-top:5px; font-weight:bold;">Git</span>
+    </div>
+  </div>
 
-  <!-- Fila 4 -->
-  <tr>
-    <td align="center">
-      <img src="express-tron.svg" width="80"/>
-      <br><strong style="color:#FFFFFF;">Express</strong>
-    </td>
-    <td align="center">
-      <img src="docker-tron-epic.svg" width="80"/>
-      <br><strong style="color:#FFFFFF;">Docker</strong>
-    </td>
-    <td align="center">
-      <img src="git-tron-epic.svg" width="80"/>
-      <br><strong style="color:#FFFFFF;">Git</strong>
-    </td>
-  </tr>
+</div>
 
-</table>
 
 
 
