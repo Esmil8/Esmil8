@@ -30,13 +30,26 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 
 <br>
 
+
 <!-- ======================== -->
-<!--       MALLA TRON        -->
+<!--       TECNOLOGÍAS        -->
 <!-- ======================== -->
 
 <h2 align="center">⚡ Tecnologías en mi Grid</h2>
 
-<div align="center" style="position:relative; background-color:#0a0a0a; padding:30px; border-radius:20px; max-width:900px; margin:auto; display:grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap:30px;">
+<div align="center" style="
+  position: relative;
+  background-color: #0a0a0a;
+  padding: 30px 20px;
+  border-radius: 20px;
+  max-width: 900px;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 40px;
+">
 
   <!-- Node.js -->
   <div style="display:flex; justify-content:center; align-items:center;">
@@ -79,9 +92,6 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
   </div>
 
 </div>
-
-<!-- Malla TRON animada de fondo -->
-<div style="position:absolute; top:0; left:0; width:100%; height:100%; pointer-events:none; background-image: url('tron-crossing-blue.svg'); background-size:cover; opacity:0.15; border-radius:20px;"></div>
 
 
 
