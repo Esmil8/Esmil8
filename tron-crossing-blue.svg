@@ -1,0 +1,17 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgrad" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset="1" stop-color="#008CFF"/></linearGradient>
+  </defs>
+
+  <rect x="0" y="36" width="800" height="8" rx="4" fill="#00131A" />
+  <rect x="-160" y="36" width="160" height="8" rx="4" fill="url(#bgrad)" opacity="0.9">
+    <animate attributeName="x" values="-160;800" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="36;12;36" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- trayectoria secundaria que esquiva -->
+  <rect x="800" y="28" width="140" height="6" rx="3" fill="url(#bgrad)" opacity="0.6">
+    <animate attributeName="x" values="800;-200" dur="2.9s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="28;44;28" dur="2.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
