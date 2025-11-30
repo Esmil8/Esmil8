@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#02040a"/>
+      <stop offset="100%" stop-color="#00050b"/>
+    </linearGradient>
+
+    <linearGradient id="blueGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#008CFF"/>
+    </linearGradient>
+    <linearGradient id="yellowGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#FFD94A"/>
+      <stop offset="1" stop-color="#FFB800"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+  <!-- Grid / paneles -->
+  <g opacity="0.12" stroke="#00BFFF" stroke-width="1">
+    <path d="M0 220 H1200"/>
+    <path d="M0 190 H1200"/>
+    <path d="M100 0 V320"/>
+    <path d="M300 0 V320"/>
+    <path d="M500 0 V320"/>
+    <path d="M700 0 V320"/>
+    <path d="M900 0 V320"/>
+  </g>
+
+  <!-- Panel digital (derecha) -->
+  <g transform="translate(880,30)" opacity="0.12">
+    <rect x="0" y="0" width="280" height="220" rx="12" stroke="#00CFFF" stroke-width="1.6" fill="none"/>
+    <path d="M12 30 H268" stroke="#00CFFF" stroke-width="0.9" opacity="0.6"/>
+    <path d="M12 60 H200" stroke="#00CFFF" stroke-width="0.9" opacity="0.45"/>
+    <circle cx="40" cy="180" r="4" fill="#FFD94A" opacity="0.9"/>
+  </g>
+
+  <!-- Barrido azul y amarillo (esquivándose) -->
+  <!-- azul -->
+  <g filter="url(#glow)">
+    <rect x="-360" y="160" width="380" height="6" rx="3" fill="url(#blueGrad)" opacity="0.95">
+      <animate attributeName="x" values="-360;1300" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="160;110;160" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- amarillo -->
+  <g filter="url(#glow)">
+    <rect x="1200" y="140" width="380" height="6" rx="3" fill="url(#yellowGrad)" opacity="0.95">
+      <animate attributeName="x" values="1200;-480" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="140;195;140" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Texto central: ESMIL -->
+  <text x="50%" y="44%" text-anchor="middle" font-family="Orbitron, sans-serif" font-weight="700"
+        font-size="68" fill="url(#blueGrad)" style="letter-spacing:6px" filter="url(#glow)">
+    ESMIL
+  </text>
+
+  <!-- Subtitulo -->
+  <text x="50%" y="60%" text-anchor="middle" font-family="Inter, Arial, sans-serif"
+        font-size="18" fill="#b7eaff" opacity="0.95">
+    Full Stack Developer • Futuristic Minimal • TRON Vibe
+  </text>
+
+  <!-- ligeros nodos decorativos -->
+  <circle cx="180" cy="80" r="3.5" fill="#00E5FF" opacity="0.9"/>
+  <circle cx="1020" cy="250" r="3.5" fill="#FFD94A" opacity="0.9"/>
+
+</svg>
