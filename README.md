@@ -31,28 +31,69 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 <br>
 
 <h2 align="center">⚡ Tecnologías en mi Grid</h2>
+<h2 align="center">⚡ Tecnologías en mi Grid</h2>
 
-<p align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
 
-  <img src="nodejs-tron.svg" alt="Node.js" width="100" style="margin: 10px;"/>
-  
-  <img src="express-tron.svg" alt="Express" width="100" style="margin: 10px;"/>
-  
-  <img src="nestjs-tron.svg" alt="NestJS" width="100" style="margin: 10px;"/>
-  
-  <img src="nextjs-tron.svg" alt="Next.js" width="100" style="margin: 10px;"/>
-  
-  
-  <img src="react-tron.svg" alt="React" width="100" style="margin: 10px;"/>
-  
-  <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="100" style="margin: 10px;"/>
-  
-  
-  <img src="docker-tron-epic.svg" alt="Docker" width="100" style="margin: 10px;"/>
-  
-  <img src="git-tron-epic.svg" alt="Git" width="100" style="margin: 10px;"/>
-  
-</p>
+  <!-- FILA SUPERIOR (1 icono) -->
+  <tr>
+    <td colspan="3" align="center" style="padding: 15px;">
+      <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="85"/>
+      <br>
+      <span style="color:#00EAFF; font-size:13px; font-weight:bold;">TypeScript</span>
+    </td>
+  </tr>
+
+  <!-- FILA INTERMEDIA (2 iconos) -->
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="react-tron.svg" alt="React" width="80"/>
+      <br>
+      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">React</span>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="nodejs-tron.svg" alt="Node.js" width="80"/>
+      <br>
+      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Node.js</span>
+    </td>
+  </tr>
+
+  <!-- FILA CENTRAL (3 iconos) -->
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="nextjs-tron.svg" alt="Next.js" width="80"/>
+      <br>
+      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Next.js</span>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="nestjs-tron.svg" alt="NestJS" width="80"/>
+      <br>
+      <span style="color:#EA2845; font-size:13px; font-weight:bold;">NestJS</span>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="express-tron.svg" alt="Express" width="80"/>
+      <br>
+      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Express</span>
+    </td>
+  </tr>
+
+  <!-- FILA INFERIOR (2 iconos) -->
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="docker-tron-epic.svg" alt="Docker" width="80"/>
+      <br>
+      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Docker</span>
+    </td>
+    <td align="center" style="padding: 15px;">
+      <img src="git-tron-epic.svg" alt="Git" width="80"/>
+      <br>
+      <span style="color:#FFFFFF; font-size:13px; font-weight:bold;">Git</span>
+    </td>
+    <td></td>
+  </tr>
+
+</table>
+
 
 
 
