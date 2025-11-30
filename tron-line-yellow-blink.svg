@@ -1,0 +1,17 @@
+<svg width="500" height="20" viewBox="0 0 500 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glowYellow">
+      <stop offset="0%" stop-color="#FFE600"/>
+      <stop offset="50%" stop-color="#FFCC00"/>
+      <stop offset="100%" stop-color="#FFB800"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="8" width="500" height="4" rx="2" fill="url(#glowYellow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="1.6s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="0" y="6" width="500" height="8" rx="4" fill="#FFCC00" opacity="0.12">
+    <animate attributeName="opacity" values="0.1;0.25;0.1" dur="1.6s" repeatCount="indefinite" />
+  </rect>
+</svg>
