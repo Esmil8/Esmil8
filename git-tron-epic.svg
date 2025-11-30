@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="150" height="150">
+  <defs>
+    <!-- Glow rojo Git -->
+    <filter id="gitGlow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Gradiente TRON rojo -->
+    <linearGradient id="gitGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dd4c35"/>
+      <stop offset="100%" stop-color="#ff6f4f"/>
+    </linearGradient>
+
+    <style>
+      /* Pulso y rotación lenta */
+      .pulse-rotate {
+        transform-origin: center;
+        animation: rotateSlow 12s linear infinite, pulse 3s ease-in-out infinite;
+      }
+      @keyframes rotateSlow {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes pulse {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.07); }
+      }
+    </style>
+  </defs>
+
+  <g filter="url(#gitGlow)" class="pulse-rotate">
+    <!-- Logo Git principal -->
+    <path d="M29.472,14.753,17.247,2.528a1.8,1.8,0,0,0-2.55,0L12.158,5.067l3.22,3.22a2.141,2.141,0,0,1,2.712,2.73l3.1,3.1a2.143,2.143,0,1,1-1.285,1.21l-2.895-2.895v7.617a2.141,2.141,0,1,1-1.764-.062V12.3a2.146,2.146,0,0,1-1.165-2.814L10.911,6.314,2.528,14.7a1.8,1.8,0,0,0,0,2.551L14.753,29.472a1.8,1.8,0,0,0,2.55,0L29.472,17.3a1.8,1.8,0,0,0,0-2.551" fill="url(#gitGradient)"/>
+    
+    <!-- Detalles blancos -->
+    <path d="M12.158,5.067l3.22,3.22a2.141,2.141,0,0,1,2.712,2.73l3.1,3.1a2.143,2.143,0,1,1-1.285,1.21l-2.895-2.895v7.617a2.141,2.141,0,1,1-1.764-.062V12.3a2.146,2.146,0,0,1-1.165-2.814L10.911,6.314" fill="white"/>
+  </g>
+</svg>
