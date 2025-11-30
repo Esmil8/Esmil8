@@ -1,36 +1,31 @@
 <!-- ======================== -->
-<!--   TRON LEGACY HEADER     -->
+<!--     TRON HEADER PRO      -->
 <!-- ======================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/header-esmil8-tron.svg" width="100%" />
-</p>
-
-<br>
-
-<!-- ======================== -->
-<!--       LÍNEA TRON         -->
-<!-- ======================== -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-blue.svg" width="85%" />
-</p>
-
-<br>
-
-# <p align="center">⚡ Bienvenido al Grid</p>
-
-<p align="center" style="max-width:650px;">
-Soy <strong>Esmil8</strong>, un desarrollador Full Stack en entrenamiento con un estilo
-minimalista, futurista y enfocado.  
-Construyo proyectos con <strong>JavaScript, TypeScript, React, Next.js y Node.js</strong>.  
-Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON ⚡.
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/header-esmil-tron-advanced.svg" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-yellow.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-blue.svg" width="80%" />
+</p>
+
+<br>
+
+# <p align="center">⚡ Bienvenido al Grid, soy <strong>Esmil</strong></p>
+
+<p align="center" style="max-width:700px;">
+Desarrollador <strong>Full Stack</strong> en formación con un enfoque futurista, minimalista y limpio.  
+Trabajo con <strong>JavaScript, TypeScript, Node.js, React y Next.js</strong>.  
+Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TRON ⚡.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-yellow.svg" width="65%" />
 </p>
 
 <br>
@@ -41,16 +36,16 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 
 | Backend | Frontend | Herramientas |
 |--------|----------|--------------|
-| Node.js / TypeScript | React / Next.js | Git / GitHub |
+| Node.js • TypeScript | React • Next.js | Git / GitHub |
 | Express | TailwindCSS | Docker |
-| SQL Server | HTML • CSS | Postman |
+| SQL Server | HTML / CSS | Postman |
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-blue.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-blue.svg" width="75%" />
 </p>
 
 <br>
@@ -58,14 +53,14 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 # 🟦 Motores de Luz (Lightcycles)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/lightcycle-blue-pro.svg" width="290" />
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/lightcycle-yellow-pro.svg" width="290" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/lightcycle-blue-pro.svg" width="260" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/lightcycle-yellow-pro.svg" width="260" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-blue-blink.svg" width="75%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-yellow.svg" width="75%" />
 </p>
 
 <br>
@@ -77,23 +72,23 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-yellow.svg" width="85%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-blue.svg" width="85%" />
 </p>
 
 <br>
 
 # 🌀 Sobre mí
 
-🔹 Enfocado en full stack con bases sólidas.  
+🔹 Enfocado en convertirme en desarrollador profesional.  
 🔹 Mejorando backend y frontend al mismo tiempo.  
-🔹 Interfaz minimalista, limpia y elegante (TRON vibe).  
-🔹 Buscando crecer como desarrollador profesional.  
-🔹 Siempre activo en el Grid ⚡.
+🔹 Me gusta escribir código limpio, ordenado y visualmente elegante.  
+🔹 Aficionado al diseño digital estilo TRON ⚡.  
+🔹 Siempre aprendiendo, siempre mejorando.
 
 <br><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-blue.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-yellow.svg" width="90%" />
 </p>
 
 <br><br>
@@ -101,5 +96,5 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 # <p align="center">✨ “El código es energía. El orden es luz.” — Tron Legacy</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-yellow.svg" width="60%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-blue.svg" width="60%" />
 </p>
