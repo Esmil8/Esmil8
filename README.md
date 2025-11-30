@@ -80,8 +80,9 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 
 # 🟦 Projects
 
-<p align="center">
+<h4 align="center">
   Updating...
+</h4>
 
 <br>
 
