@@ -1,0 +1,16 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ygrad" x1="0" x2="1"><stop offset="0" stop-color="#FFD94A"/><stop offset="1" stop-color="#FFB800"/></linearGradient>
+  </defs>
+
+  <rect x="0" y="36" width="800" height="8" rx="4" fill="#1a1400" />
+  <rect x="800" y="36" width="160" height="8" rx="4" fill="url(#ygrad)" opacity="0.9">
+    <animate attributeName="x" values="800;-160" dur="2.7s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="36;60;36" dur="2.7s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="-200" y="28" width="140" height="6" rx="3" fill="url(#ygrad)" opacity="0.6">
+    <animate attributeName="x" values="-200;800" dur="3.0s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="28;44;28" dur="3.0s" repeatCount="indefinite"/>
+  </rect>
+</svg>
