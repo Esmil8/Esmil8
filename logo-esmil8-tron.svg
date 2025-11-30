@@ -1,0 +1,35 @@
+<svg width="520" height="140" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Glow azul -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="tronText" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#00E0FF"/>
+      <stop offset="100%" stop-color="#0090FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="520" height="140" fill="#02050A" rx="10"/>
+
+  <!-- Nombre -->
+  <text x="50%" y="55%" text-anchor="middle" fill="url(#tronText)"
+        font-family="Orbitron, sans-serif" font-size="54" font-weight="700"
+        filter="url(#glow)" letter-spacing="4">
+    Esmil8
+  </text>
+
+  <!-- Línea brillante inferior -->
+  <rect x="60" y="95" width="400" height="5" rx="2.5" fill="#00CFFF">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="-80" y="95" width="80" height="5" rx="2.5" fill="#FFFFFF" opacity="0.6">
+    <animate attributeName="x" values="-80;520" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
