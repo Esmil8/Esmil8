@@ -31,50 +31,57 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 <br>
 
 <!-- ======================== -->
-<!--   TECNOLOGÍAS ULTRA TRON -->
+<!--       MALLA TRON        -->
 <!-- ======================== -->
 
 <h2 align="center">⚡ Tecnologías en mi Grid</h2>
 
-<div align="center" style="background-color:#0a0a0a; padding:30px; border-radius:20px; max-width:900px; margin:auto; display:flex; flex-wrap:wrap; justify-content:center; gap:40px; box-shadow: 0 0 40px #00f0ff, 0 0 20px #fffc00 inset;">
+<div align="center" style="position:relative; background-color:#0a0a0a; padding:30px; border-radius:20px; max-width:900px; margin:auto; display:grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap:30px;">
 
   <!-- Node.js -->
-  <img src="nodejs-tron.svg" alt="Node.js" width="100"
-       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 10px #fffc00);"/>
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="nodejs-tron.svg" alt="Node.js" width="100"/>
+  </div>
 
   <!-- Express -->
-  <img src="express-tron.svg" alt="Express" width="100"
-       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 10px #fffc00);"/>
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="express-tron.svg" alt="Express" width="100"/>
+  </div>
 
   <!-- NestJS -->
-  <img src="nestjs-tron.svg" alt="NestJS" width="100"
-       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 10px #fffc00);"/>
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="nestjs-tron.svg" alt="NestJS" width="100"/>
+  </div>
 
   <!-- Next.js -->
-  <img src="nextjs-tron.svg" alt="Next.js" width="100"
-       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 10px #fffc00);"/>
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="nextjs-tron.svg" alt="Next.js" width="100"/>
+  </div>
 
   <!-- React -->
-  <img src="react-tron.svg" alt="React" width="100"
-       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 10px #fffc00);"/>
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="react-tron.svg" alt="React" width="100"/>
+  </div>
 
   <!-- TypeScript -->
-  <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="100"
-       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 10px #fffc00);"/>
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="100"/>
+  </div>
 
   <!-- Docker -->
-  <img src="docker-tron-epic.svg" alt="Docker" width="100"
-       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 10px #fffc00);"/>
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="docker-tron-epic.svg" alt="Docker" width="100"/>
+  </div>
 
   <!-- Git -->
-  <img src="git-tron-epic.svg" alt="Git" width="100"
-       style="filter: drop-shadow(0 0 15px #00f0ff) drop-shadow(0 0 10px #fffc00);"/>
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="git-tron-epic.svg" alt="Git" width="100"/>
+  </div>
 
 </div>
 
-<p align="center" style="margin-top:20px;">
-  <em>Panel digital estilo TRON ⚡ – Glow animado y alineación perfecta</em>
-</p>
+<!-- Malla TRON animada de fondo -->
+<div style="position:absolute; top:0; left:0; width:100%; height:100%; pointer-events:none; background-image: url('tron-crossing-blue.svg'); background-size:cover; opacity:0.15; border-radius:20px;"></div>
 
 
 
