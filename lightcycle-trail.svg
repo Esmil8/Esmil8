@@ -1,0 +1,17 @@
+<!-- lightcycle-trail.svg -->
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ltBlue" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset="1" stop-color="#008CFF"/></linearGradient>
+    <linearGradient id="ltYellow" x1="0" x2="1"><stop offset="0" stop-color="#FFD94A"/><stop offset="1" stop-color="#FFB800"/></linearGradient>
+  </defs>
+
+  <!-- blue trail moving -->
+  <rect x="-300" y="34" width="240" height="6" rx="3" fill="url(#ltBlue)" opacity="0.9">
+    <animate attributeName="x" values="-300;900" dur="4.0s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- yellow trail moving opposite -->
+  <rect x="900" y="44" width="260" height="6" rx="3" fill="url(#ltYellow)" opacity="0.9">
+    <animate attributeName="x" values="900;-300" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
