@@ -30,68 +30,29 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 
 <br>
 
-
-<!-- ======================== -->
-<!--       TECNOLOGÍAS        -->
-<!-- ======================== -->
-
 <h2 align="center">⚡ Tecnologías en mi Grid</h2>
 
-<div align="center" style="
-  position: relative;
-  background-color: #0a0a0a;
-  padding: 30px 20px;
-  border-radius: 20px;
-  max-width: 900px;
-  margin: auto;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 40px;
-">
+<p align="center">
 
-  <!-- Node.js -->
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="nodejs-tron.svg" alt="Node.js" width="100"/>
-  </div>
-
-  <!-- Express -->
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="express-tron.svg" alt="Express" width="100"/>
-  </div>
-
-  <!-- NestJS -->
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="nestjs-tron.svg" alt="NestJS" width="100"/>
-  </div>
-
-  <!-- Next.js -->
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="nextjs-tron.svg" alt="Next.js" width="100"/>
-  </div>
-
-  <!-- React -->
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="react-tron.svg" alt="React" width="100"/>
-  </div>
-
-  <!-- TypeScript -->
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="100"/>
-  </div>
-
-  <!-- Docker -->
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="docker-tron-epic.svg" alt="Docker" width="100"/>
-  </div>
-
-  <!-- Git -->
-  <div style="display:flex; justify-content:center; align-items:center;">
-    <img src="git-tron-epic.svg" alt="Git" width="100"/>
-  </div>
-
-</div>
+  <img src="nodejs-tron.svg" alt="Node.js" width="100" style="margin: 10px;"/>
+  
+  <img src="express-tron.svg" alt="Express" width="100" style="margin: 10px;"/>
+  
+  <img src="nestjs-tron.svg" alt="NestJS" width="100" style="margin: 10px;"/>
+  
+  <img src="nextjs-tron.svg" alt="Next.js" width="100" style="margin: 10px;"/>
+  
+  
+  <img src="react-tron.svg" alt="React" width="100" style="margin: 10px;"/>
+  
+  <img src="typescript-tron-border-neon.svg" alt="TypeScript" width="100" style="margin: 10px;"/>
+  
+  
+  <img src="docker-tron-epic.svg" alt="Docker" width="100" style="margin: 10px;"/>
+  
+  <img src="git-tron-epic.svg" alt="Git" width="100" style="margin: 10px;"/>
+  
+</p>
 
 
 
