@@ -1,0 +1,43 @@
+<svg width="220" height="220" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    /* Pulso de neón */
+    @keyframes glow {
+      0%   { filter: drop-shadow(0 0 4px #4fc8ff); }
+      50%  { filter: drop-shadow(0 0 14px #4fc8ff); }
+      100% { filter: drop-shadow(0 0 4px #4fc8ff); }
+    }
+
+    /* Movimiento flotante */
+    @keyframes float {
+      0%   { transform: translateY(0px); }
+      50%  { transform: translateY(-4px); }
+      100% { transform: translateY(0px); }
+    }
+
+    /* Animación del texto */
+    @keyframes softFade {
+      0% { opacity: 0.6; }
+      50% { opacity: 1; }
+      100% { opacity: 0.6; }
+    }
+
+    .box {
+      animation: glow 2.3s infinite ease-in-out, float 4s infinite ease-in-out;
+    }
+
+    .letters {
+      font-family: Arial, sans-serif;
+      font-weight: 700;
+      fill: white;
+      animation: softFade 3s infinite ease-in-out;
+    }
+  </style>
+
+  <!-- Fondo cuadrado estilo TypeScript -->
+  <rect class="box" x="20" y="20" width="160" height="160" rx="18" fill="#3178c6"/>
+
+  <!-- Texto “TS” estilizado -->
+  <text class="letters" x="63" y="118" font-size="70">TS</text>
+
+</svg>
