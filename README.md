@@ -1,19 +1,19 @@
 <!-- ======================== -->
-<!--   TRON LEGACY HEADERR    -->
+<!--   TRON LEGACY HEADER     -->
 <!-- ======================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/header-esmil8-tron.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/header-esmil8-tron.svg" width="100%" />
 </p>
 
 <br>
 
 <!-- ======================== -->
-<!--         LÍNEA TRON       -->
+<!--       LÍNEA TRON         -->
 <!-- ======================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/tron-line-animated-blue.svg" width="85%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-blue.svg" width="85%" />
 </p>
 
 <br>
@@ -30,7 +30,7 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/tron-line-animated-yellow.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-yellow.svg" width="70%" />
 </p>
 
 <br>
@@ -50,7 +50,7 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/tron-line-animated-blue.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-blue.svg" width="80%" />
 </p>
 
 <br>
@@ -58,14 +58,14 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 # 🟦 Motores de Luz (Lightcycles)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/lightcycle-blue.svg" width="290" />
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/lightcycle-yellow.svg" width="290" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/lightcycle-blue-pro.svg" width="290" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/lightcycle-yellow-pro.svg" width="290" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/tron-line-blue-pulse.svg" width="75%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-blue-blink.svg" width="75%" />
 </p>
 
 <br>
@@ -77,7 +77,7 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/tron-line-animated-yellow.svg" width="85%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-yellow.svg" width="85%" />
 </p>
 
 <br>
@@ -93,7 +93,7 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 <br><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/tron-line-animated-blue.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-blue.svg" width="90%" />
 </p>
 
 <br><br>
@@ -101,5 +101,5 @@ Mi código busca eficiencia, claridad… y un toque de energía al estilo TRON �
 # <p align="center">✨ “El código es energía. El orden es luz.” — Tron Legacy</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/assets/main/tron-line-animated-yellow.svg" width="60%" />
+  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-line-animated-yellow.svg" width="60%" />
 </p>
