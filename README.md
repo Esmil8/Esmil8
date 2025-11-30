@@ -30,13 +30,12 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 
 <br>
 
-<h2 align="center">⚡ Tecnologías en mi Stack</h2>
+<h2 align="center">⚡ Stack </h2>
 
 <div align="center" style="
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 50px; /* espacio entre íconos */
+  flex-direction: column;
+  gap: 40px; /* espacio entre filas */
   background-color: #0a0a0a;
   padding: 30px 20px;
   border-radius: 20px;
@@ -44,20 +43,24 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
   margin: auto;
 ">
 
-  <!-- FILA 1 -->
-  <div style="display:flex; gap:50px; justify-content:center; flex:1 1 100%; flex-wrap: wrap;">
+  <!-- FILA 1: 4 íconos -->
+  <div style="display:flex; justify-content:center; gap:50px; flex-wrap: wrap;">
     <img src="nodejs-tron.svg" width="100" alt="Node.js"/>
     <img src="express-tron.svg" width="100" alt="Express"/>
     <img src="nestjs-tron.svg" width="100" alt="NestJS"/>
     <img src="nextjs-tron.svg" width="100" alt="Next.js"/>
   </div>
 
-  <!-- FILA 2 -->
-  <div style="display:flex; gap:50px; justify-content:center; flex:1 1 100%; flex-wrap: wrap;">
+  <!-- FILA 2: 3 íconos -->
+  <div style="display:flex; justify-content:center; gap:50px; flex-wrap: wrap;">
     <img src="react-tron.svg" width="100" alt="React"/>
-    <img src="typescript-tron-border-neon.svg" width="100" alt="TypeScript"/>
     <img src="docker-tron-epic.svg" width="100" alt="Docker"/>
     <img src="git-tron-epic.svg" width="100" alt="Git"/>
+  </div>
+
+  <!-- FILA 3: 1 ícono -->
+  <div style="display:flex; justify-content:center; gap:50px;">
+    <img src="typescript-tron-border-neon.svg" width="100" alt="TypeScript"/>
   </div>
 
 </div>
