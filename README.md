@@ -107,9 +107,9 @@ Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TR
 # 🌀 Sobre mí
 
 🔹 Enfocado en convertirme en desarrollador profesional.  
-🔹 Mejorando backend y frontend al mismo tiempo.  
-🔹 Me gusta escribir código limpio, ordenado y visualmente elegante.  
-🔹 Aficionado al diseño digital estilo TRON ⚡.  
+🔹 Mejorando backend y frontend.  
+🔹 Clean Code.  
+🔹 Aficionado al diseño digital TRON ⚡.  
 🔹 Siempre aprendiendo, siempre mejorando.
 
 <br><br>
