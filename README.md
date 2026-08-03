@@ -58,19 +58,19 @@ Interesado en diseño de sistemas, modelado de datos y código que escale sin fr
 <table border="0" width="100%" cellpadding="14" style="border-collapse:separate; border-spacing:12px 0;">
   <tr>
     <td width="50%" valign="top" style="background-color:#0d1117; border-radius:12px; padding:20px;">
-      <strong>ContactBook</strong><br/>
-      <sub>Descripción técnica breve: qué problema resuelve y cómo está construido.</sub><br/><br/>
+      <strong>PantryTracker</strong><br/>
+      <sub>Plataforma inteligente para la gestión de despensas y control automatizado de caducidades. Implementa reglas de frescura en tiempo real, manejo de zonas horarias UTC, caché con Redis y hashing seguro mediante worker threads</sub><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white"/><br/><br/>
-      <a href="https://github.com/Esmil8/ContactBook"><img src="https://img.shields.io/badge/View_Repository-000000?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Esmil8/pantry-tracker-api"><img src="https://img.shields.io/badge/View_Repository-000000?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top" style="background-color:#0d1117; border-radius:12px; padding:20px;">
-      <strong>Countdless</strong><br/>
-      <sub>Landing page interactiva y responsive.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=white"/><br/><br/>
-      <a href="https://github.com/Esmil8/Countdless-Landing-Page-React"><img src="https://img.shields.io/badge/View_Repository-000000?style=flat-square&logo=github&logoColor=white"/></a>
+      <strong>FastApi</strong><br/>
+      <sub>API de búsqueda masiva optimizada de 50 a 3,200+ RPS baja latencia (+6,000% de capacidad). Implementa reverse proxy con Nginx (keep-alive sockets), clustering multinúcleo con PM2, caché Redis (Cache-Aside) y SQL Server Full-Text Search.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white"/><br/><br/>
+      <a href="https://github.com/Esmil8/fast-institution-api"><img src="https://img.shields.io/badge/View_Repository-000000?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
