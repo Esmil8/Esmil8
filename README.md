@@ -1,127 +1,114 @@
-<!-- ======================== -->
-<!--     TRON HEADER PRO      -->
-<!-- ======================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/header-esmil-tron-advanced.svg" width="100%" />
-</p>
+# Esmil Adames
 
-<br>
+**Full Stack Software Engineer · Backend Developer**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-blue.svg" width="80%" />
-</p>
+Diseño y construyo aplicaciones web robustas de extremo a extremo, con foco en TypeScript, Node.js y React.
+Priorizo arquitecturas mantenibles, tipado estricto y APIs predecibles sobre soluciones rápidas y frágiles.
+Interesado en diseño de sistemas, modelado de datos y código que escale sin fricción.
 
-<br>
+<br/>
 
-# <p align="center">⚡ Bienvenido al <strong> Grid </strong></p>
-
-<p align="center" style="max-width:700px;">
-Desarrollador <strong>Full Stack</strong> en formación con un enfoque futurista, minimalista y limpio.  
-Trabajo con <strong>JavaScript, TypeScript, Node.js, React y Next.js</strong>.  
-Me gusta crear interfaces claras, sistemas ordenados y experiencias con vibra TRON ⚡.
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-yellow.svg" width="65%" />
-</p>
-
-<br>
-
-<h2 align="center">⚡ Stack </h2>
-
-<div align="center" style="
-  display: flex;
-  flex-direction: column;
-  gap: 40px; /* espacio entre filas */
-  background-color: #0a0a0a;
-  padding: 30px 20px;
-  border-radius: 20px;
-  max-width: 900px;
-  margin: auto;
-">
-
-  <!-- FILA 1: 4 íconos -->
-  <div style="display:flex; justify-content:center; gap:50px; flex-wrap: wrap;">
-    <img src="nodejs-tron.svg" width="100" alt="Node.js"/>
-    <img src="express-tron.svg" width="100" alt="Express"/>
-    <img src="nestjs-tron.svg" width="100" alt="NestJS"/>
-    <img src="nextjs-tron.svg" width="100" alt="Next.js"/>
-  </div>
-
-  <!-- FILA 2: 3 íconos -->
-  <div style="display:flex; justify-content:center; gap:50px; flex-wrap: wrap;">
-    <img src="react-tron.svg" width="100" alt="React"/>
-    <img src="docker-tron-epic.svg" width="100" alt="Docker"/>
-    <img src="git-tron-epic.svg" width="100" alt="Git"/>
-  </div>
-
-  <!-- FILA 3: 1 ícono -->
-  <div style="display:flex; justify-content:center; gap:50px;">
-    <img src="typescript-tron-border-neon.svg" width="100" alt="TypeScript"/>
-  </div>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ffffff"/></a>
+<a href="https://github.com/Esmil8"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=ffffff"/></a>
 
 </div>
 
+<br/>
 
+---
 
+<br/>
 
+### Tech Stack
 
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <sub><strong>BACKEND &amp; CORE</strong></sub><br/><br/>
+      <img src="nodejs-tron.svg" width="60" alt="Node.js"/>&nbsp;&nbsp;
+      <img src="express-tron.svg" width="60" alt="Express"/>&nbsp;&nbsp;
+      <img src="nestjs-tron.svg" width="60" alt="NestJS"/>&nbsp;&nbsp;
+      <img src="typescript-tron-border-neon.svg" width="60" alt="TypeScript"/>
+    </td>
+    <td align="center" width="33%">
+      <sub><strong>FRONTEND &amp; UI</strong></sub><br/><br/>
+      <img src="react-tron.svg" width="60" alt="React"/>&nbsp;&nbsp;
+      <img src="nextjs-tron.svg" width="60" alt="Next.js"/>
+    </td>
+    <td align="center" width="33%">
+      <sub><strong>DEVOPS &amp; TOOLING</strong></sub><br/><br/>
+      <img src="docker-tron-epic.svg" width="60" alt="Docker"/>&nbsp;&nbsp;
+      <img src="git-tron-epic.svg" width="60" alt="Git"/>
+    </td>
+  </tr>
+</table>
 
-<br>
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-blue.svg" width="75%" />
-</p>
+---
 
-<br>
+<br/>
 
-# 🟦 Projects
+### Featured Projects
 
-<h4 align="center">
-  Updating...
-</h4>
+<table border="0" width="100%" cellpadding="14" style="border-collapse:separate; border-spacing:12px 0;">
+  <tr>
+    <td width="50%" valign="top" style="background-color:#0d1117; border-radius:12px; padding:20px;">
+      <strong>ContactBook</strong><br/>
+      <sub>Descripción técnica breve: qué problema resuelve y cómo está construido.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white"/><br/><br/>
+      <a href="https://github.com/Esmil8/ContactBook"><img src="https://img.shields.io/badge/View_Repository-000000?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top" style="background-color:#0d1117; border-radius:12px; padding:20px;">
+      <strong>Countdless</strong><br/>
+      <sub>Landing page interactiva y responsive.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=white"/><br/><br/>
+      <a href="https://github.com/Esmil8/Countdless-Landing-Page-React"><img src="https://img.shields.io/badge/View_Repository-000000?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
-<br>
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-yellow.svg" width="75%" />
-</p>
+---
 
-<br>
+<br/>
 
-# 🔥 Estado del Sistema
+### Engineering & System Design Principles
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esmil8&theme=tokyonight&hide_border=true" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Architecture & Layer Separation</strong><br/>
+      <sub>APIs mantenibles, código desacoplado y tipado estricto de extremo a extremo.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Data Modeling & Integrity</strong><br/>
+      <sub>Estructuración eficiente de bases de datos y flujos de información predecibles.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Pragmatic Problem Solving</strong><br/>
+      <sub>Código limpio, patrones de diseño pertinentes y foco en valor de producto.</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-blue.svg" width="85%" />
-</p>
+<br/>
 
-<br>
+---
 
-# 🌀 Sobre mí
+<br/>
 
-🔹 Enfocado en convertirme en desarrollador profesional.  
-🔹 Mejorando backend y frontend.  
-🔹 Clean Code.  
-🔹 Aficionado al diseño digital TRON ⚡.  
-🔹 Siempre aprendiendo, siempre mejorando.
+<div align="center">
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Esmil8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esmil8&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-yellow.svg" width="90%" />
-</p>
-
-<br><br>
-
-# <p align="center"> The first time I saw the Grid, I knew I wanted to build something there. </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmil8/Esmil8/main/tron-crossing-blue.svg" width="60%" />
-</p>
+</div>
